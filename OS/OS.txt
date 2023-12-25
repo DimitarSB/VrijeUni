@@ -1,4 +1,4 @@
 In this folder will be everything from the OS course!
 
 In the .tar is the clean assignment with all the possible tests to run. When wanting to start the program replace the files that we worked on with
-the once already inside.
+the once already inside or unzip the "Modified" tar to get all the necessary files ready to run!

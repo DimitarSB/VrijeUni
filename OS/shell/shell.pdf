@@ -1,0 +1,2566 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 6 0 R /F5 7 0 R /F6 9 0 R 
+  /F7 12 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/Contents 32 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 31 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica-BoldOblique /Encoding /WinAnsiEncoding /Name /F4 /Subtype /Type1 /Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F5 /Subtype /Type1 /Type /Font
+>>
+endobj
+8 0 obj
+<<
+/Contents 33 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 31 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Courier-Oblique /Encoding /WinAnsiEncoding /Name /F6 /Subtype /Type1 /Type /Font
+>>
+endobj
+10 0 obj
+<<
+/Contents 34 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 31 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+11 0 obj
+<<
+/Contents 35 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 31 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Courier-Bold /Encoding /WinAnsiEncoding /Name /F7 /Subtype /Type1 /Type /Font
+>>
+endobj
+13 0 obj
+<<
+/Contents 36 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 31 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+14 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 17 0 R /XYZ 68.69291 627.9843 0 ] /Rect [ 255.2229 743.4236 259.6709 753.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 17 0 R /XYZ 255.2229 752.0236 0 ] /Rect [ 68.69291 613.9843 74.25291 625.9843 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.kernel.org/doc/html/v4.10/process/coding-style.html)
+>> /Border [ 0 0 0 ] /Rect [ 153.7323 614.7343 436.0523 626.7343 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/Annots [ 14 0 R 15 0 R 16 0 R ] /Contents 37 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 31 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+18 0 obj
+<<
+/Outlines 20 0 R /PageLabels 38 0 R /PageMode /UseNone /Pages 31 0 R /Type /Catalog
+>>
+endobj
+19 0 obj
+<<
+/Author () /CreationDate (D:20231030153213+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20231030153213+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Assignment 1: Shell) /Trapped /False
+>>
+endobj
+20 0 obj
+<<
+/Count 10 /First 21 0 R /Last 30 0 R /Type /Outlines
+>>
+endobj
+21 0 obj
+<<
+/Dest [ 5 0 R /XYZ 62.69291 581.0236 0 ] /Next 22 0 R /Parent 20 0 R /Title (Getting started)
+>>
+endobj
+22 0 obj
+<<
+/Dest [ 5 0 R /XYZ 62.69291 206.8236 0 ] /Next 23 0 R /Parent 20 0 R /Prev 21 0 R /Title (Features and grading)
+>>
+endobj
+23 0 obj
+<<
+/Dest [ 8 0 R /XYZ 62.69291 292.0236 0 ] /Next 24 0 R /Parent 20 0 R /Prev 22 0 R /Title (Compile and run)
+>>
+endobj
+24 0 obj
+<<
+/Dest [ 10 0 R /XYZ 62.69291 633.0236 0 ] /Next 25 0 R /Parent 20 0 R /Prev 23 0 R /Title (Example commands)
+>>
+endobj
+25 0 obj
+<<
+/Dest [ 11 0 R /XYZ 62.69291 667.8236 0 ] /Next 26 0 R /Parent 20 0 R /Prev 24 0 R /Title (Syntax of built-ins)
+>>
+endobj
+26 0 obj
+<<
+/Dest [ 11 0 R /XYZ 62.69291 472.8236 0 ] /Next 27 0 R /Parent 20 0 R /Prev 25 0 R /Title (Error handling)
+>>
+endobj
+27 0 obj
+<<
+/Dest [ 11 0 R /XYZ 62.69291 295.8236 0 ] /Next 28 0 R /Parent 20 0 R /Prev 26 0 R /Title (Prompting)
+>>
+endobj
+28 0 obj
+<<
+/Dest [ 13 0 R /XYZ 62.69291 765.0236 0 ] /Next 29 0 R /Parent 20 0 R /Prev 27 0 R /Title (Some tips about the shell)
+>>
+endobj
+29 0 obj
+<<
+/Dest [ 13 0 R /XYZ 62.69291 435.6236 0 ] /Next 30 0 R /Parent 20 0 R /Prev 28 0 R /Title (Tips in developing using docker)
+>>
+endobj
+30 0 obj
+<<
+/Dest [ 13 0 R /XYZ 62.69291 299.4236 0 ] /Parent 20 0 R /Prev 29 0 R /Title (Some tips about the environment)
+>>
+endobj
+31 0 obj
+<<
+/Count 6 /Kids [ 5 0 R 8 0 R 10 0 R 11 0 R 13 0 R 17 0 R ] /Type /Pages
+>>
+endobj
+32 0 obj
+<<
+/Length 8937
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 139.3649 0 Td (Assignment 1: Shell) Tj T* -139.3649 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 659.0236 cm
+q
+BT 1 0 0 1 0 62 Tm .194751 Tw 12 TL /F1 10 Tf 0 0 0 rg (For this assignment you will implement a Unix shell similar to ) Tj /F3 10 Tf (sh) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (bash) Tj /F1 10 Tf ( and ) Tj /F3 10 Tf (zsh) Tj /F1 10 Tf (. A shell is an old, but still) Tj T* 0 Tw .468735 Tw (widely used, way of running programs on your system. Most shells, including the one you will implement,) Tj T* 0 Tw .309984 Tw (support features that allows for additional operations with these commands, such as feeding the output of) Tj T* 0 Tw .974692 Tw (one command to the input of another. Note that, except for explicitly mentioned built-ins like ) Tj /F3 10 Tf (cd) Tj /F1 10 Tf (, a shell) Tj T* 0 Tw .989985 Tw (does ) Tj /F2 10 Tf (not) Tj /F1 10 Tf ( implement any of the commands it executes itself, it simply launches other binaries from your) Tj T* 0 Tw /F3 10 Tf (PATH) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 593.0236 cm
+q
+BT 1 0 0 1 0 50 Tm .570574 Tw 12 TL /F1 10 Tf 0 0 0 rg (For this assignment you can choose which exact features to implement in your shell. Not all features are) Tj T* 0 Tw .487132 Tw (required to obtain a 10 as final grade. A list of all possible features is listed below. Your shell may not be) Tj T* 0 Tw .253735 Tw (based on \(or exploit\) another shell. For example, ) Tj /F3 10 Tf (system\(3\)) Tj /F1 10 Tf ( is forbidden. You must submit your work as) Tj T* 0 Tw .20436 Tw (a tarball on Canvas. You can use ) Tj /F3 10 Tf (make) Tj ( ) Tj (tarball) Tj /F1 10 Tf ( to generate a tarball for submission automatically. This) Tj T* 0 Tw (assignment is individual; you are not allowed to work in teams.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 560.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Getting started) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 548.0236 cm
+Q
+q
+1 0 0 1 62.69291 548.0236 cm
+Q
+q
+1 0 0 1 62.69291 512.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm .20811 Tw 12 TL /F1 10 Tf 0 0 0 rg (Set up your environment; refer to the setup document for detailed instructions. In short, on Linux you) Tj T* 0 Tw 1.375681 Tw (should install ) Tj /F3 10 Tf (build-essential) Tj ( ) Tj (python3 python3-pexpect) Tj ( ) Tj (libreadline-dev) Tj ( ) Tj (flex) Tj /F1 10 Tf (, on) Tj T* 0 Tw (Windows use WSL2 \(and then follow Linux instructions\), and on macOS you will need to use Docker.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 506.0236 cm
+Q
+q
+1 0 0 1 62.69291 494.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Unpack the provided source code archive; then run ) Tj /F3 10 Tf (make) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 488.0236 cm
+Q
+q
+1 0 0 1 62.69291 356.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 116.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 104.2 cm
+q
+BT 1 0 0 1 0 14 Tm 1.028555 Tw 12 TL /F1 10 Tf 0 0 0 rg (Try the generated ) Tj /F3 10 Tf (mysh) Tj /F1 10 Tf ( binary and familiarize yourself with its interface. Try entering the following) Tj T* 0 Tw (commands at its prompt:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 47 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 445.6898 48 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 24 24 12 re f*
+.960784 .960784 .862745 rg
+n 24 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 24 0 12 re f*
+.960784 .960784 .862745 rg
+n 30 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 12 24 12 re f*
+.960784 .960784 .862745 rg
+n 78 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 114 12 0 12 re f*
+.960784 .960784 .862745 rg
+n 12 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 18 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 0 0 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F3 10 Tf 0 .501961 0 rg (echo) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (hello) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (sleep) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (;) Tj .733333 .733333 .733333 rg ( ) Tj 0 .501961 0 rg (echo) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (world) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (ls) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (|) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (more) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.854651 Tw 12 TL /F1 10 Tf 0 0 0 rg (The framework already provides a front-end for your shell that reads and parses user input into) Tj T* 0 Tw 2.120751 Tw ('nodes'. By default ) Tj /F3 10 Tf (shell.c) Tj /F1 10 Tf ( calls ) Tj /F3 10 Tf (print_tree) Tj /F1 10 Tf ( to dump this data structure. To understand the) Tj T* 0 Tw (default output, read the file ) Tj /F3 10 Tf (parser/ast.h) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 350.8236 cm
+Q
+q
+1 0 0 1 62.69291 260.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 51 cm
+q
+BT 1 0 0 1 0 26 Tm 1.434524 Tw 12 TL /F1 10 Tf 0 0 0 rg (Read the manual pages for ) Tj /F3 10 Tf (exit\(3\)) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (chdir\(2\)) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (fork\(2\)) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (execvp\(3\)) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (waitpid\(2\)) Tj /F1 10 Tf ( \(and the) Tj T* 0 Tw .100814 Tw (other ) Tj /F3 10 Tf (wait) Tj /F1 10 Tf ( functions\), ) Tj /F3 10 Tf (pipe\(2\)) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (dup2\(2\)) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (sigaction\(2\)) Tj /F1 10 Tf (. You will need \(most of\) these functions) Tj T* 0 Tw (to implement your shell.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm 2.845868 Tw 12 TL /F1 10 Tf 0 0 0 rg (Note that when you see something like ) Tj /F3 10 Tf (foo\(n\)) Tj /F1 10 Tf (, this refers to page ) Tj /F3 10 Tf (foo) Tj /F1 10 Tf ( in section ) Tj /F3 10 Tf (n) Tj /F1 10 Tf ( of the) Tj T* 0 Tw 1.181318 Tw (man-pages. To read these, run the following command: ) Tj /F3 10 Tf (man) Tj ( ) Tj (n) Tj ( ) Tj (foo) Tj /F1 10 Tf ( \(or use google\). The section) Tj T* 0 Tw 1.915318 Tw (number is optional, and the ) Tj /F3 10 Tf (man) Tj /F1 10 Tf ( command will usually default to section 1 \(shell commands\), 2) Tj T* 0 Tw (\(system calls\) or 3 \(library calls\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 254.8236 cm
+Q
+q
+1 0 0 1 62.69291 218.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (5.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.552339 Tw 12 TL /F1 10 Tf 0 0 0 rg (Try and modify the file ) Tj /F3 10 Tf (shell.c) Tj /F1 10 Tf ( and see the effects for yourself. This is where you should start) Tj T* 0 Tw 2.242126 Tw (implementing your shell. You should not have to modify the front-end \() Tj /F3 10 Tf (front.c) Tj /F1 10 Tf (\) or the parser) Tj T* 0 Tw (\() Tj /F3 10 Tf (parser/) Tj /F1 10 Tf ( directory\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 218.8236 cm
+Q
+q
+1 0 0 1 62.69291 185.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Features and grading) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 155.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.229989 Tw (Your grade will be 0 if you did not submit your work on time, in an invalid format, or has errors during) Tj T* 0 Tw (compilation.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 125.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.71332 Tw (If your submission is valid \(on time, in valid format, and compiles\), your grade starts from 0, and the) Tj T* 0 Tw (following tests determine your grade \(in no particular order\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 119.8236 cm
+Q
+q
+1 0 0 1 62.69291 119.8236 cm
+Q
+q
+1 0 0 1 62.69291 107.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+1pt if you have submitted an archive in the right format with source code that builds without errors.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 101.8236 cm
+Q
+q
+1 0 0 1 62.69291 89.82362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+1pt if your shell runs simple commands properly.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 83.82362 cm
+Q
+ 
+endstream
+endobj
+33 0 obj
+<<
+/Length 9694
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 753.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (+1pt if your shell supports the ) Tj /F3 10 Tf (exit) Tj /F1 10 Tf ( built-in command.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 747.0236 cm
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (+1pt if your shell supports the ) Tj /F3 10 Tf (cd) Tj /F1 10 Tf ( built-in command.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 729.0236 cm
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+1.5pt if your shell runs sequences of 3 commands or more properly.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+1.5pt if your shell runs pipes of 2 simple commands properly.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (-1pt if ) Tj /F3 10 Tf (gcc) Tj ( ) Tj (-Wall) Tj ( ) Tj (-Wextra) Tj /F1 10 Tf ( reports warnings when compiling your code.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+Q
+q
+1 0 0 1 62.69291 663.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (-1pt if your shell fails to print an error message on the standard error when an API function fails.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .635542 Tw (-1pt if your shell stops when the user enters Ctrl+C on the terminal, or if regular commands are not) Tj T* 0 Tw (interrupted when the user enters Ctrl+C.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 633.0236 cm
+Q
+q
+1 0 0 1 62.69291 603.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.365868 Tw (The following extra features will be tested to obtain higher grades, but only if you have obtained a) Tj T* 0 Tw (minimum of 5 points on the list above already:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+Q
+q
+1 0 0 1 62.69291 573.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.469398 Tw (+1pt if your shell runs pipes of more than 2 parts consisting of sequences or pipes of simple) Tj T* 0 Tw (commands.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 567.0236 cm
+Q
+q
+1 0 0 1 62.69291 555.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+1pt if your shell supports redirections.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 549.0236 cm
+Q
+q
+1 0 0 1 62.69291 537.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+0.5pt if your shell supports detached commands.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 531.0236 cm
+Q
+q
+1 0 0 1 62.69291 519.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+0.5pt if your shell supports executing commands in a sub-shell.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+Q
+q
+1 0 0 1 62.69291 501.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (+0.5pt if your shell supports the ) Tj /F3 10 Tf (set) Tj /F1 10 Tf ( and ) Tj /F3 10 Tf (unset) Tj /F1 10 Tf ( built-ins for managing environment variables.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 495.0236 cm
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (+0.5pt if you parse the PS1 correct and support at least the host name, user name and current path.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 477.0236 cm
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .374104 Tw 12 TL /F1 10 Tf 0 0 0 rg (+2pt if your shell supports simple job control: Ctrl+Z to suspend a command group, ) Tj /F3 10 Tf (bg) Tj /F1 10 Tf ( to continue a) Tj T* 0 Tw (job in the background, and ) Tj /F3 10 Tf (fg) Tj /F1 10 Tf ( to recall a job to the foreground.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (-1pt if your source files are not neatly indented or formatted.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+Q
+q
+1 0 0 1 62.69291 417.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The grade will be maximized at 10, so you do not need to implement all features to get a top grade.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 405.0236 cm
+Q
+q
+1 0 0 1 62.69291 310.0236 cm
+.960784 .960784 .862745 rg
+n 0 95 469.8898 -95 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 69 Tm  T* ET
+q
+1 0 0 1 16 64 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.5 Tm /F4 12.5 Tf 15 TL (Note) Tj T* ET
+Q
+Q
+q
+1 0 0 1 16 16 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .551318 Tw (Your shell will be evaluated largely automatically. This means features only get a positive grade if) Tj T* 0 Tw 1.773735 Tw (they work perfectly, and there will be no half grade for "effort". Most features listed above are) Tj T* 0 Tw (separated into several sub-features which are worth points individually.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.662745 .662745 .662745 RG
+.5 w
+n 0 95 m 469.8898 95 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 95 l S
+n 469.8898 0 m 469.8898 95 l S
+Q
+Q
+q
+1 0 0 1 62.69291 304.0236 cm
+Q
+q
+1 0 0 1 62.69291 271.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Compile and run) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 217.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.758651 Tw 12 TL /F1 10 Tf 0 0 0 rg (Run ) Tj /F5 10 Tf (make) Tj /F1 10 Tf ( to compile the sources. By default the provided Makefile assumes your solution is entirely) Tj T* 0 Tw .048735 Tw (contained in ) Tj /F5 10 Tf (shell.c) Tj /F1 10 Tf (. Did you create additional sources or headers? Then you can modify the Makefile; add) Tj T* 0 Tw 1.087752 Tw (your files to ) Tj /F5 10 Tf (ADDITIONAL_SOURCES) Tj /F1 10 Tf ( \(Makefile:2\) or ) Tj /F5 10 Tf (ADDITIONAL_HEADERS) Tj /F1 10 Tf ( \(Makefile:5\). Now ) Tj /F5 10 Tf (make) Tj /F1 10 Tf  T* 0 Tw (will compile your files as well.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 187.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.239988 Tw 12 TL /F1 10 Tf 0 0 0 rg (We provide a Python script to test the solution \(i.e., ) Tj /F5 10 Tf (check.py) Tj /F1 10 Tf (\). You can use the Python script to run a) Tj T* 0 Tw (specific test group.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 169.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (For example:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 135.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 42 12 re f*
+.960784 .960784 .862745 rg
+n 48 0 30 12 re f*
+.960784 .960784 .862745 rg
+n 78 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 84 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 102 0 42 12 re f*
+.960784 .960784 .862745 rg
+n 144 0 0 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (python3) Tj ( ) Tj (check) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (py) Tj ( ) Tj 0 .501961 0 rg (compile) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 115.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (or) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 82.62362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 24 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 0 42 12 re f*
+.960784 .960784 .862745 rg
+n 48 0 30 12 re f*
+.960784 .960784 .862745 rg
+n 78 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 84 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 102 0 36 12 re f*
+.960784 .960784 .862745 rg
+n 138 0 0 12 re f*
+BT 1 0 0 1 0 2 Tm 12 TL /F3 10 Tf 0 0 0 rg (python3) Tj ( ) Tj (check) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (py) Tj ( ) Tj (simple) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+34 0 obj
+<<
+/Length 18392
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 717.0236 cm
+q
+BT 1 0 0 1 0 38 Tm .436235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Otherwise use it with Makefile \() Tj /F5 10 Tf (make check) Tj /F1 10 Tf ( to run all tests\). The script runs specific \(random\) commands) Tj T* 0 Tw .537209 Tw (and analyzes the output on the shell to infer if your implementation is correct. You are allowed to inspect) Tj T* 0 Tw .927045 Tw (the Python script. However, do not hardcode the output to pass the test. We manually inspect the code) Tj T* 0 Tw (and we check for attempts to bypass our tests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 687.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .65683 Tw (Linux is the only supported OS. Your solution may or may not work on other OSes. We advice Docker if) Tj T* 0 Tw (you want to test locally on a virtualized environment.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+q
+BT 1 0 0 1 0 26 Tm .466235 Tw 12 TL /F1 10 Tf 0 0 0 rg (Run ) Tj /F5 10 Tf (make docker-update) Tj /F1 10 Tf ( to obtain the official docker image. You can now run ) Tj /F5 10 Tf (make docker-check) Tj /F1 10 Tf ( to run) Tj T* 0 Tw 1.30832 Tw (all the tests inside docker. Please refer to the setup guide to install Docker and get into the container.) Tj T* 0 Tw (\(read also ) Tj /F5 10 Tf (Tips in developing using docker) Tj /F1 10 Tf (\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Example commands) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 554.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 24 114 12 re f*
+.960784 .960784 .862745 rg
+n 12 12 0 12 re f*
+.960784 .960784 .862745 rg
+n 30 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 0 18 12 re f*
+.960784 .960784 .862745 rg
+n 60 0 216 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F6 10 Tf .25098 .501961 .501961 rg (## simple commands:) Tj T* /F3 10 Tf 0 0 0 rg (ls) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (sleep) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (5) Tj .733333 .733333 .733333 rg (   ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# must not show the prompt too early) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 473.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 48 210 12 re f*
+.960784 .960784 .862745 rg
+n 30 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 36 0 12 re f*
+.960784 .960784 .862745 rg
+n 0 24 12 12 re f*
+.960784 .960784 .862745 rg
+n 12 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 24 0 12 re f*
+.960784 .960784 .862745 rg
+n 48 12 12 12 re f*
+.960784 .960784 .862745 rg
+n 60 12 144 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 24 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 30 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 42 0 18 12 re f*
+.960784 .960784 .862745 rg
+n 60 0 126 12 re f*
+BT 1 0 0 1 0 50 Tm 12 TL /F6 10 Tf .25098 .501961 .501961 rg (## simple commands, with built-ins:) Tj T* /F3 10 Tf 0 0 0 rg (mkdir) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (t) Tj .733333 .733333 .733333 rg  T* 0 .501961 0 rg (cd) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (t) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (/bin/pwd) Tj .733333 .733333 .733333 rg (  ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# must show the new path) Tj T* /F3 10 Tf 0 .501961 0 rg (exit) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (42) Tj .733333 .733333 .733333 rg (   ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# terminate with code) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 416.4236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 24 78 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 24 12 re f*
+.960784 .960784 .862745 rg
+n 24 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 12 24 12 re f*
+.960784 .960784 .862745 rg
+n 96 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 132 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 138 12 156 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 24 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 30 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 72 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 114 0 138 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F6 10 Tf .25098 .501961 .501961 rg (## sequences:) Tj T* /F3 10 Tf 0 .501961 0 rg (echo) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (hello) Tj (;) Tj .733333 .733333 .733333 rg ( ) Tj 0 .501961 0 rg (echo) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (world) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# must print in this order) Tj T* /F3 10 Tf 0 .501961 0 rg (exit) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (0) Tj 0 0 0 rg (;) Tj .733333 .733333 .733333 rg ( ) Tj 0 .501961 0 rg (echo) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (fail) Tj .733333 .733333 .733333 rg (  ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# must not print "fail") Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 323.2236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 60 54 12 re f*
+.960784 .960784 .862745 rg
+n 12 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 18 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 48 0 12 re f*
+.960784 .960784 .862745 rg
+n 12 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 18 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 36 24 12 re f*
+.960784 .960784 .862745 rg
+n 78 36 192 12 re f*
+.960784 .960784 .862745 rg
+n 12 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 18 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 78 24 216 12 re f*
+.960784 .960784 .862745 rg
+n 30 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 78 12 174 12 re f*
+.960784 .960784 .862745 rg
+n 12 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 78 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 132 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 138 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 144 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 168 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 192 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 216 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 222 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 228 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 258 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 276 0 0 12 re f*
+BT 1 0 0 1 0 62 Tm 12 TL /F6 10 Tf .25098 .501961 .501961 rg (## pipes:) Tj T* /F3 10 Tf 0 0 0 rg (ls) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (|) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (grep) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (t) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (ls) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (|) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (more) Tj .733333 .733333 .733333 rg (    ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# must not show prompt too early) Tj T* /F3 10 Tf 0 0 0 rg (ls) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (|) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (sleep) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (5) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# must not print anything, then wait) Tj T* /F3 10 Tf 0 0 0 rg (sleep) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (5) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (|) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (ls) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# must show listing then wait) Tj T* /F3 10 Tf 0 0 0 rg (ls) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (/usr/lib) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (|) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (grep) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (net) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (|) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (cut) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (-d.) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (-f1) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (|) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (sort) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (-u) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 242.0236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 72 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 48 78 12 re f*
+.960784 .960784 .862745 rg
+n 24 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 72 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 78 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 144 36 0 12 re f*
+.960784 .960784 .862745 rg
+n 24 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 138 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 162 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 186 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 192 24 48 12 re f*
+.960784 .960784 .862745 rg
+n 24 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 114 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 132 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 138 12 84 12 re f*
+.960784 .960784 .862745 rg
+n 24 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 30 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 84 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 132 0 114 12 re f*
+BT 1 0 0 1 0 50 Tm 12 TL /F6 10 Tf .25098 .501961 .501961 rg (## redirects:) Tj T* /F3 10 Tf 0 0 0 rg (>) Tj (dl1) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (ls) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (/bin) Tj (;) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (<) Tj (dl1) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (wc) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (-l) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (>) Tj (dl2) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (ls) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (/usr/bin) Tj (;) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (>) Tj (>) Tj (dl1) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (cat) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (dl2) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# append) Tj T* /F3 10 Tf 0 0 0 rg (<) Tj (dl2) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (wc) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (-l) Tj (;) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (<) Tj (dl1) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (wc) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (-l) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# show the sum) Tj T* /F3 10 Tf 0 0 0 rg (>) Tj (dl3) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (>) Tj (&) Tj .4 .4 .4 rg (1) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (find) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (/var/.) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# errors redirected) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 184.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 24 126 12 re f*
+.960784 .960784 .862745 rg
+n 30 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 36 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 12 12 12 re f*
+.960784 .960784 .862745 rg
+n 66 12 120 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 90 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 132 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 138 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 144 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 150 0 24 12 re f*
+.960784 .960784 .862745 rg
+n 174 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 210 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 216 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 252 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 258 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 264 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 270 0 90 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F6 10 Tf .25098 .501961 .501961 rg (## detached commands:) Tj T* /F3 10 Tf 0 0 0 rg (sleep) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (5) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (&) Tj .733333 .733333 .733333 rg (  ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# print prompt early) Tj T* /F3 10 Tf .4 .4 .4 rg ({) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (sleep) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (1) Tj 0 0 0 rg (;) Tj .733333 .733333 .733333 rg ( ) Tj 0 .501961 0 rg (echo) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (hello) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (}) Tj 0 0 0 rg (&) Tj .733333 .733333 .733333 rg ( ) Tj 0 .501961 0 rg (echo) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (world) Tj (;) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (sleep) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (3) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# invert output) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 127.6236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 48 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 24 78 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 12 12 24 12 re f*
+.960784 .960784 .862745 rg
+n 36 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 12 192 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 12 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 114 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 120 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 0 12 12 re f*
+.960784 .960784 .862745 rg
+n 138 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 168 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 174 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 180 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 186 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 240 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 246 0 84 12 re f*
+BT 1 0 0 1 0 26 Tm 12 TL /F6 10 Tf .25098 .501961 .501961 rg (## sub-shell:) Tj T* /F3 10 Tf .4 .4 .4 rg (\() Tj .733333 .733333 .733333 rg ( ) Tj 0 .501961 0 rg (exit) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (0) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (\)) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# top shell does *not* terminate) Tj T* /F3 10 Tf 0 .501961 0 rg (cd) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (/tmp) Tj (;) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (/bin/pwd) Tj (;) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (\() Tj .733333 .733333 .733333 rg ( ) Tj 0 .501961 0 rg (cd) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (/bin) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (\)) Tj 0 0 0 rg (;) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (/bin/pwd) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# "/tmp" twice) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 82.42362 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 36 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 12 144 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 18 12 re f*
+.960784 .960784 .862745 rg
+n 18 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 0 30 12 re f*
+.960784 .960784 .862745 rg
+n 54 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 120 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 132 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 162 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 198 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 204 0 132 12 re f*
+BT 1 0 0 1 0 14 Tm 12 TL /F6 10 Tf .25098 .501961 .501961 rg (## environment variables) Tj T* /F3 10 Tf 0 .501961 0 rg (set) Tj .733333 .733333 .733333 rg ( ) Tj .098039 .090196 .486275 rg (hello) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (world) Tj (;) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (env) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (|) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (grep) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (hello) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# prints "hello=world") Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+35 0 obj
+<<
+/Length 9461
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 679.8236 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 468.6898 84 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 60 18 12 re f*
+.960784 .960784 .862745 rg
+n 24 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 30 60 18 12 re f*
+.960784 .960784 .862745 rg
+n 48 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 78 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 84 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 114 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 120 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 156 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 180 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 186 60 162 12 re f*
+.960784 .960784 .862745 rg
+n 0 48 0 12 re f*
+.960784 .960784 .862745 rg
+n 0 36 132 12 re f*
+.960784 .960784 .862745 rg
+n 30 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 84 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 204 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 210 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 246 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 264 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 342 24 0 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 18 12 re f*
+.960784 .960784 .862745 rg
+n 18 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 12 24 12 re f*
+.960784 .960784 .862745 rg
+n 48 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 132 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 138 12 24 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 30 12 re f*
+.960784 .960784 .862745 rg
+n 30 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 66 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 0 156 12 re f*
+BT 1 0 0 1 0 62 Tm 12 TL /F3 10 Tf .4 .4 .4 rg (\() Tj 0 .501961 0 rg (set) Tj .733333 .733333 .733333 rg ( ) Tj .098039 .090196 .486275 rg (top) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (down) Tj .4 .4 .4 rg (\)) Tj 0 0 0 rg (;) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (env) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (|) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (grep) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (top) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# does not print "top=down") Tj T* /F3 10 Tf .733333 .733333 .733333 rg  T* /F6 10 Tf .25098 .501961 .501961 rg (# custom PATH handling) Tj T* /F3 10 Tf 0 0 0 rg (mkdir) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (/tmp/hai) Tj (;) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (touch) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (/tmp/hai/waa) Tj (;) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (chmod) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (+x) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (/tmp/hai/waa) Tj .733333 .733333 .733333 rg  T* 0 .501961 0 rg (set) Tj .733333 .733333 .733333 rg ( ) Tj .098039 .090196 .486275 rg (PATH) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg (/tmp/hai) Tj (;) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (waa) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# OK) Tj T* /F3 10 Tf 0 .501961 0 rg (unset) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (PATH) Tj (;) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (waa) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# execvp\(\) reports failure) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 62.69291 646.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Syntax of built-ins) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 628.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Built-in: ) Tj /F3 10 Tf (cd) Tj ( ) Tj (<) Tj (path) Tj (>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 601.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 14 Tm 1.238651 Tw 12 TL /F1 10 Tf 0 0 0 rg (Change the current directory to become the directory specify in the argument. Your shell does not) Tj T* 0 Tw (need to support the syntax ) Tj /F3 10 Tf (cd) Tj /F1 10 Tf ( without arguments like Bash does.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 585.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Built-in: ) Tj /F3 10 Tf (exit) Tj ( ) Tj (<) Tj (code) Tj (>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 558.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 14 Tm 1.164651 Tw 12 TL /F1 10 Tf 0 0 0 rg (Terminate the current shell process using the specified numeric code. Your shell does not need to) Tj T* 0 Tw (support the syntax ) Tj /F3 10 Tf (exit) Tj /F1 10 Tf ( without arguments like Bash does.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 542.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Built-in \(advanced\): ) Tj /F3 10 Tf (set) Tj ( ) Tj (<) Tj (var) Tj (>) Tj (=) Tj (<) Tj (value) Tj (>) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 515.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 14 Tm .889318 Tw 12 TL /F1 10 Tf 0 0 0 rg (Set the specified environment variable. Your shell does not need to support the syntax ) Tj /F3 10 Tf (set) Tj /F1 10 Tf ( without) Tj T* 0 Tw (arguments like Bash does.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 499.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Built-in \(advanced\): ) Tj /F3 10 Tf (unset) Tj ( ) Tj (<) Tj (var) Tj (>) Tj /F2 10 Tf ( \(optional\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 484.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Unset the specified environment variable.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 451.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Error handling) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 433.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Your shell might encounter two types of error:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 427.8236 cm
+Q
+q
+1 0 0 1 62.69291 427.8236 cm
+Q
+q
+1 0 0 1 62.69291 379.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 33 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 38 Tm 1.07186 Tw 12 TL /F1 10 Tf 0 0 0 rg (When an API function called by the shell fails, for example ) Tj /F3 10 Tf (execvp\(2\)) Tj /F1 10 Tf ( fails to find an executable) Tj T* 0 Tw 2.709318 Tw (program. For these errors, your shell must print a useful error message on its standard error) Tj T* 0 Tw .327984 Tw (\(otherwise you can lose 1pt on your grade\). You may/should use the helper function ) Tj /F3 10 Tf (perror\(3\)) Tj /F1 10 Tf ( for) Tj T* 0 Tw (this purpose.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 373.8236 cm
+Q
+q
+1 0 0 1 62.69291 337.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 26 Tm 1.18311 Tw 12 TL /F1 10 Tf 0 0 0 rg (When a command launched by the shell exits with a non-zero status code, or a built-in command) Tj T* 0 Tw .663735 Tw (encounters an error. For these errors, your shell ) Tj /F5 10 Tf (may) Tj /F1 10 Tf ( print a useful indicative message, but this will) Tj T* 0 Tw (not be tested.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 337.8236 cm
+Q
+q
+1 0 0 1 62.69291 307.8236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .275868 Tw (In any case, your program should not leak resources like leaving file descriptors open or forgetting to wait) Tj T* 0 Tw (on child processes.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 274.8236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Prompting) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 220.8236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.021098 Tw 12 TL /F1 10 Tf 0 0 0 rg (The text a shell shows before user input is called the prompt, which is normally determined by the ) Tj /F3 10 Tf (PS1) Tj /F1 10 Tf  T* 0 Tw .892126 Tw (environment variable. This variable can contain special characters that will be replaced, for example, by) Tj T* 0 Tw 1.886412 Tw (the current username or the current working directory. For more information see PROMPTING in the) Tj T* 0 Tw /F3 10 Tf (bash\(1\)) Tj /F1 10 Tf ( manual page.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 190.8236 cm
+q
+BT 1 0 0 1 0 14 Tm .147356 Tw 12 TL /F1 10 Tf 0 0 0 rg (For your shell, supporting ) Tj /F3 10 Tf (PS1) Tj /F1 10 Tf ( is not required, but doing so correctly is worth additional points. If you do, it) Tj T* 0 Tw (should support the current user \() Tj /F3 10 Tf (\\u) Tj /F1 10 Tf (\), current hostname \() Tj /F3 10 Tf (\\h) Tj /F1 10 Tf (\) and current working directory \() Tj /F3 10 Tf (\\w) Tj /F1 10 Tf (\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 160.8236 cm
+q
+BT 1 0 0 1 0 14 Tm .263672 Tw 12 TL /F1 10 Tf 0 0 0 rg (If no ) Tj /F3 10 Tf (PS1) Tj /F1 10 Tf ( value is set \(or this feature is not implemented\), you should display a default prompt that should) Tj T* 0 Tw (always end with a ) Tj /F3 10 Tf ($) Tj /F1 10 Tf ( character. The ) Tj /F3 10 Tf (PS1) Tj /F1 10 Tf ( values set by the tester will always end with a ) Tj /F3 10 Tf ($) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 142.8236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (You can use ) Tj /F3 10 Tf (getuid) Tj /F1 10 Tf ( and ) Tj /F3 10 Tf (gethostname) Tj /F1 10 Tf ( to get the current user and hostname.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 142.8236 cm
+Q
+ 
+endstream
+endobj
+36 0 obj
+<<
+/Length 14484
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Some tips about the shell) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 732.0236 cm
+Q
+q
+1 0 0 1 62.69291 732.0236 cm
+Q
+q
+1 0 0 1 62.69291 720.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (1.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (It is not necessary that your shell implements advanced features using '*', '?', or '~'.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 714.0236 cm
+Q
+q
+1 0 0 1 62.69291 690.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (2.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.050512 Tw (If you do not know how to start, it is best to first start with simple commands, i.e., the 'command' node) Tj T* 0 Tw (type.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 690.0236 cm
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+Q
+q
+1 0 0 1 62.69291 598.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 448.6898 84 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 60 12 12 re f*
+.960784 .960784 .862745 rg
+n 12 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 18 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 24 60 24 12 re f*
+.960784 .960784 .862745 rg
+n 48 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 60 24 12 re f*
+.960784 .960784 .862745 rg
+n 84 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 60 12 12 re f*
+.960784 .960784 .862745 rg
+n 102 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 60 72 12 re f*
+.960784 .960784 .862745 rg
+n 180 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 186 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 192 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 198 60 0 12 re f*
+.960784 .960784 .862745 rg
+n 0 48 12 12 re f*
+.960784 .960784 .862745 rg
+n 12 48 24 12 re f*
+.960784 .960784 .862745 rg
+n 36 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 48 42 12 re f*
+.960784 .960784 .862745 rg
+n 90 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 108 48 24 12 re f*
+.960784 .960784 .862745 rg
+n 132 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 138 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 144 48 42 12 re f*
+.960784 .960784 .862745 rg
+n 186 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 192 48 42 12 re f*
+.960784 .960784 .862745 rg
+n 234 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 240 48 0 12 re f*
+.960784 .960784 .862745 rg
+n 0 36 12 12 re f*
+.960784 .960784 .862745 rg
+n 12 36 24 12 re f*
+.960784 .960784 .862745 rg
+n 36 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 36 12 12 re f*
+.960784 .960784 .862745 rg
+n 54 36 24 12 re f*
+.960784 .960784 .862745 rg
+n 78 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 84 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 36 24 12 re f*
+.960784 .960784 .862745 rg
+n 120 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 126 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 132 36 42 12 re f*
+.960784 .960784 .862745 rg
+n 174 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 180 36 24 12 re f*
+.960784 .960784 .862745 rg
+n 204 36 6 12 re f*
+.960784 .960784 .862745 rg
+n 210 36 0 12 re f*
+.960784 .960784 .862745 rg
+n 0 24 12 12 re f*
+.960784 .960784 .862745 rg
+n 12 24 312 12 re f*
+.960784 .960784 .862745 rg
+n 324 24 0 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 12 12 re f*
+.960784 .960784 .862745 rg
+n 12 12 18 12 re f*
+.960784 .960784 .862745 rg
+n 30 12 0 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 6 0 0 12 re f*
+BT 1 0 0 1 0 62 Tm 12 TL /F7 10 Tf 0 .501961 0 rg (if) Tj /F3 10 Tf .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (\() Tj (node) Tj .4 .4 .4 rg (-) Tj (>) Tj 0 0 0 rg (type) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (==) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (NODE_COMMAND) Tj (\)) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg ({) Tj .733333 .733333 .733333 rg  T* (  ) Tj .690196 0 .25098 rg (char) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (*) Tj 0 0 0 rg (program) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (node) Tj .4 .4 .4 rg (-) Tj (>) Tj 0 0 0 rg (command) Tj (.) Tj (program) Tj (;) Tj .733333 .733333 .733333 rg  T* (  ) Tj .690196 0 .25098 rg (char) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (**) Tj 0 0 0 rg (argv) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (=) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (node) Tj .4 .4 .4 rg (-) Tj (>) Tj 0 0 0 rg (command) Tj (.) Tj (argv) Tj (;) Tj .733333 .733333 .733333 rg  T* (  ) Tj /F6 10 Tf .25098 .501961 .501961 rg (/* Here comes a good combination of fork and exec */) Tj /F3 10 Tf .733333 .733333 .733333 rg  T* (  ) Tj 0 0 0 rg (...) Tj .733333 .733333 .733333 rg  T* 0 0 0 rg (}) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 598.8236 cm
+Q
+q
+1 0 0 1 62.69291 592.8236 cm
+Q
+q
+1 0 0 1 62.69291 592.8236 cm
+Q
+q
+1 0 0 1 62.69291 568.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (3.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .789398 Tw 12 TL /F1 10 Tf 0 0 0 rg (A shell usually supports redirections on all places of a simple command; ) Tj /F3 10 Tf (ls) Tj ( ) Tj (>) Tj ( ) Tj (foo) Tj /F1 10 Tf ( and ) Tj /F3 10 Tf (>) Tj (foo) Tj ( ) Tj (ls) Tj /F1 10 Tf  T* 0 Tw (are normally equivalent. However, this shell only supports ) Tj /F3 10 Tf (>) Tj (foo) Tj ( ) Tj (ls) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 562.8236 cm
+Q
+q
+1 0 0 1 62.69291 538.8236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 5.66 0 Td (4.) Tj T* -5.66 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .784651 Tw (Within a 'pipe' construction, all parts should be forked, even if they only contain built-in commands.) Tj T* 0 Tw (This keeps the implementation easier.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 538.8236 cm
+Q
+q
+1 0 0 1 62.69291 532.8236 cm
+Q
+q
+1 0 0 1 62.69291 447.6236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 448.6898 84 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 0 60 24 12 re f*
+.960784 .960784 .862745 rg
+n 24 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 30 60 12 12 re f*
+.960784 .960784 .862745 rg
+n 42 60 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 60 108 12 re f*
+.960784 .960784 .862745 rg
+n 0 48 24 12 re f*
+.960784 .960784 .862745 rg
+n 24 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 30 48 12 12 re f*
+.960784 .960784 .862745 rg
+n 42 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 48 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 48 12 12 re f*
+.960784 .960784 .862745 rg
+n 114 48 234 12 re f*
+.960784 .960784 .862745 rg
+n 0 36 0 12 re f*
+.960784 .960784 .862745 rg
+n 0 24 12 12 re f*
+.960784 .960784 .862745 rg
+n 12 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 24 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 24 138 12 re f*
+.960784 .960784 .862745 rg
+n 0 12 12 12 re f*
+.960784 .960784 .862745 rg
+n 12 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 42 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 48 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 54 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 90 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 96 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 102 12 12 12 re f*
+.960784 .960784 .862745 rg
+n 114 12 186 12 re f*
+.960784 .960784 .862745 rg
+n 0 0 114 12 re f*
+.960784 .960784 .862745 rg
+n 114 0 126 12 re f*
+BT 1 0 0 1 0 62 Tm 12 TL /F3 10 Tf 0 .501961 0 rg (exit) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (42) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# closes the shell) Tj T* /F3 10 Tf 0 .501961 0 rg (exit) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (42) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (|) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (sleep) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (1) Tj .733333 .733333 .733333 rg (  ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# exit in sub-shell, main shell remains) Tj T* /F3 10 Tf .733333 .733333 .733333 rg  T* 0 .501961 0 rg (cd) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (/tmp) Tj .733333 .733333 .733333 rg ( ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# changes the directory) Tj T* /F3 10 Tf 0 .501961 0 rg (cd) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (/tmp) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (|) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (sleep) Tj .733333 .733333 .733333 rg ( ) Tj .4 .4 .4 rg (1) Tj .733333 .733333 .733333 rg (  ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# change directory in sub-shell) Tj T* /F3 10 Tf .733333 .733333 .733333 rg (                   ) Tj /F6 10 Tf .25098 .501961 .501961 rg (# main shell does not) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 447.6236 cm
+Q
+q
+1 0 0 1 62.69291 414.6236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Tips in developing using docker) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 384.6236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.853672 Tw (If you are developing using docker, and want to test out your shell with your own tests \(and not the) Tj T* 0 Tw (automated ones\) you can use the following command within your working folder:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 378.6236 cm
+Q
+q
+1 0 0 1 62.69291 341.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 448.6898 36 re B*
+Q
+q
+.960784 .960784 .862745 rg
+n 36 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 60 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 84 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 114 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 186 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 204 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 210 12 78 12 re f*
+.960784 .960784 .862745 rg
+n 288 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 306 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 342 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 348 12 6 12 re f*
+.960784 .960784 .862745 rg
+n 138 0 6 12 re f*
+.960784 .960784 .862745 rg
+n 198 0 0 12 re f*
+BT 1 0 0 1 0 14 Tm 12 TL /F3 10 Tf 0 0 0 rg (docker) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (run) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (-it) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (--rm) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (--read-only) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (-v) Tj .733333 .733333 .733333 rg ( ) Tj .729412 .129412 .129412 rg ("`pwd`:/code") Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (-w) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (/code) Tj .733333 .733333 .733333 rg ( ) Tj /F7 10 Tf .733333 .4 .133333 rg (\\) Tj T* /F3 10 Tf 0 0 0 rg (vusec/vu-os-shell-check) Tj .733333 .733333 .733333 rg ( ) Tj 0 0 0 rg (/bin/bash) Tj .733333 .733333 .733333 rg  T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 341.4236 cm
+Q
+q
+1 0 0 1 62.69291 311.4236 cm
+q
+BT 1 0 0 1 0 14 Tm .924104 Tw 12 TL /F1 10 Tf 0 0 0 rg (After running this command, you can use the linux commands, such as ) Tj /F3 10 Tf (make) Tj /F1 10 Tf ( to build your mysh binary) Tj T* 0 Tw (and run it manually, or alternatively ) Tj /F3 10 Tf (make) Tj ( ) Tj (check) Tj /F1 10 Tf ( to run the automated tests.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 278.4236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Some tips about the environment) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 266.4236 cm
+Q
+q
+1 0 0 1 62.69291 266.4236 cm
+Q
+q
+1 0 0 1 62.69291 254.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (Use ) Tj /F3 10 Tf (make) Tj ( ) Tj (check) Tj /F1 10 Tf ( \(or ) Tj /F3 10 Tf (make) Tj ( ) Tj (docker-check) Tj /F1 10 Tf (\) to test your features locally.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 248.4236 cm
+Q
+q
+1 0 0 1 62.69291 176.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 62 Tm 1.043735 Tw 12 TL /F1 10 Tf 0 0 0 rg (You should also submit your work on canvas for evaluation \(via Codegrade\). Do so often to make) Tj T* 0 Tw .624985 Tw (sure your code behaves as expected on our setup, as there may be differences between your local) Tj T* 0 Tw 3.595984 Tw (environment and ours. You can submit your work for evaluation as often as you like. This) Tj T* 0 Tw .52311 Tw (environment is the same as the one used for final grading. ) Tj /F2 10 Tf (Make sure your submission works on) Tj T* 0 Tw .248735 Tw (our environment, you will not receive points if it does not.) Tj /F1 10 Tf ( The last submission you make before) Tj T* 0 Tw (the deadline will be used for final grading.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 170.4236 cm
+Q
+q
+1 0 0 1 62.69291 134.4236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.259318 Tw (If you are experiencing issues due to differences between your local environment and that on the) Tj T* 0 Tw .299318 Tw (grading server, you can use Docker to replicate the environment locally. For instructions, refer to the) Tj T* 0 Tw (setup document.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 128.4236 cm
+Q
+q
+1 0 0 1 62.69291 92.42362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .815318 Tw (Please report any bugs you may encounter in the automated checking script, such as the awarded) Tj T* 0 Tw 2.192765 Tw (points being too high or low. It is strictly prohibited to attempt to cheat the script or attack the) Tj T* 0 Tw (infrastructure.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 86.42362 cm
+Q
+ 
+endstream
+endobj
+37 0 obj
+<<
+/Length 1496
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm .90683 Tw 12 TL /F1 10 Tf 0 0 0 rg (You are free to choose a C coding style for your code, as long as you are consistent. An example) Tj T* 0 Tw (coding style is that of the Linux kernel ) Tj /F1 8 Tf 0 0 .501961 rg 5 Ts (1) Tj /F1 10 Tf 0 0 0 rg 0 Ts (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 14 Tm 8.294597 Tw 12 TL /F1 10 Tf 0 0 0 rg (You may add additional source files to organize your code. Add these files to) Tj T* 0 Tw /F3 10 Tf (ADDITIONAL_SOURCES) Tj /F1 10 Tf ( or ) Tj /F3 10 Tf (ADDITIONAL_HEADERS) Tj /F1 10 Tf ( so the environment will correctly use these.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+Q
+q
+1 0 0 1 62.69291 654.3307 cm
+Q
+q
+1 0 0 1 62.69291 625.9843 cm
+n 0 14.17323 m 469.8898 14.17323 l S
+Q
+q
+1 0 0 1 62.69291 613.9843 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 0 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 91.03937 0 cm
+q
+0 0 .501961 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://www.kernel.org/doc/html/v4.10/process/coding-style.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+38 0 obj
+<<
+/Nums [ 0 39 0 R 1 40 0 R 2 41 0 R 3 42 0 R 4 43 0 R 
+  5 44 0 R ]
+>>
+endobj
+39 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+40 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+41 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+42 0 obj
+<<
+/S /D /St 4
+>>
+endobj
+43 0 obj
+<<
+/S /D /St 5
+>>
+endobj
+44 0 obj
+<<
+/S /D /St 6
+>>
+endobj
+xref
+0 45
+0000000000 65535 f 
+0000000073 00000 n 
+0000000168 00000 n 
+0000000275 00000 n 
+0000000387 00000 n 
+0000000492 00000 n 
+0000000697 00000 n 
+0000000816 00000 n 
+0000000931 00000 n 
+0000001136 00000 n 
+0000001249 00000 n 
+0000001455 00000 n 
+0000001661 00000 n 
+0000001772 00000 n 
+0000001978 00000 n 
+0000002147 00000 n 
+0000002316 00000 n 
+0000002532 00000 n 
+0000002771 00000 n 
+0000002877 00000 n 
+0000003154 00000 n 
+0000003229 00000 n 
+0000003345 00000 n 
+0000003479 00000 n 
+0000003608 00000 n 
+0000003739 00000 n 
+0000003873 00000 n 
+0000004002 00000 n 
+0000004126 00000 n 
+0000004266 00000 n 
+0000004412 00000 n 
+0000004545 00000 n 
+0000004639 00000 n 
+0000013628 00000 n 
+0000023374 00000 n 
+0000041819 00000 n 
+0000051332 00000 n 
+0000065869 00000 n 
+0000067417 00000 n 
+0000067506 00000 n 
+0000067540 00000 n 
+0000067574 00000 n 
+0000067608 00000 n 
+0000067642 00000 n 
+0000067676 00000 n 
+trailer
+<<
+/ID 
+[<b6cf4091f330e51dfa74aa886631ca17><b6cf4091f330e51dfa74aa886631ca17>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 19 0 R
+/Root 18 0 R
+/Size 45
+>>
+startxref
+67710
+%%EOF

@@ -1,1 +1,4 @@
 This is the object orientated and functional programming course! Done in intellij!
+
+In the "Modified" zip file is everything you need to run the program!
+The extra files is where my changes were placed 

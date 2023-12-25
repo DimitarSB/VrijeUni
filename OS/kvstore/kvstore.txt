@@ -1,0 +1,6 @@
+Useful commands for the ubunto:
+OS: 
+A4 :
+kill command before running tests: kill -s 9 `pgrep kvstore`
+starting server: ./kvstore -v -d	
+starting tests with server?: python3 check.py --debug-server-pid `pgrep kvstore`

@@ -1,0 +1,1 @@
+Here is the haskell assignments from the Deep programming minor (Equational Programming)!

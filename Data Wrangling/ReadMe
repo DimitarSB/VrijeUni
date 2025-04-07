@@ -1,0 +1,3 @@
+Data Wrangling is a course about extracting, cleaning, filtering and reading the overall data.
+It is in Python Jupyter Notebook and the 2 assignments are meant to give an overview of how data analysis works (pandas, data frames...) 
+while the project is using those stuff to tackle real-world scenarios/research.
